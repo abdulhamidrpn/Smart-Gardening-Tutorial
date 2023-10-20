@@ -15,5 +15,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Totel"
+rootProject.name = "Smart Gardeining"
 include(":app")
